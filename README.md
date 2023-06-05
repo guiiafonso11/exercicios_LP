@@ -1,2 +1,2 @@
-# exercicios_lp
-# exercicios_lp
+# Exercícios de Java feitos na FATEC GTA
+# 
